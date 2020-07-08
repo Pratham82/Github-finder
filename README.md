@@ -1,6 +1,6 @@
 # Github-finder 🔍
 
-I have create a github information finder. I used ES6 classes and created multiple JS files for modulariation. I got a strong understanding of DOM. I have learned async await, API calls with github API and much more with this app. 
+I have created a github information finder. I used ES6 classes and created multiple JS files for modularization. I got a strong understanding of DOM. I have learned async await, API calls with github API and much more with this app. 
 
  
 ####  Features:
