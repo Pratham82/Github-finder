@@ -32,15 +32,3 @@ searchUsers.addEventListener("keyup", (e) => {
 	}
 });
 
-/*
-user ID for testing:
-Pratham82
-tinshade
-Ankit-Developer143
-leandrotk
-ry
-johnafish
-w3cj
-shiffman
-yyx990803
-*/
