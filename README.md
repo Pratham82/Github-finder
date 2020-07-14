@@ -1,8 +1,9 @@
 # Github-finder 🔍
 
-I have created a github information finder. I used ES6 classes and created multiple JS files for modularization. I got a strong understanding of DOM. I have learned async await, API calls with github API and much more with this app. 
+I have created a github information finder. I used **ES6 classes** and created multiple JS files for modularization. I got a strong understanding of **DOM**. I have learned **async await**, API calls with **github API** and much more with this app. 
 
- 
+![](https://i.postimg.cc/yYgFhJC1/Github-finder.jpg)
+
 ####  Features:
 - Search user with username
 - View followers, following counts
